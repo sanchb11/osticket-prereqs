@@ -6,10 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -31,25 +27,53 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/9CVk7Pt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U0ZrKpU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In your Windows settings enable IIS.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qPJxizA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After installing Web Platform Installer, add MySQL 5.5 along with all simple versions of x86 PHP up until 7.3. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/WQbHnFG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Fix any failures, install PHP Manager and install Microsoft Visual C++ 2009 Redistribution Package.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/ewSgQa6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download and install HeidiSQL. Connect to the aession and create a new database.
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/ESckkNb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log in with your credentials.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/MtWv1Yj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+You have successfully installed osTicket.
 </p>
 <br />
